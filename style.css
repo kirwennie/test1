@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Press+Start+2P&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poiret+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pattaya&display=swap');
+
+
+#test1 {
+    color: red;
+    font-family: 'Poiret One';
+    font-size: 40px;
+}
+
+#test2 {
+    color: blue;
+    font-family: 'Press Start 2P';
+    font-size: 35px;
+}
